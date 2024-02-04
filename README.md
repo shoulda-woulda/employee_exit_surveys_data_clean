@@ -1,4 +1,4 @@
-### Employee Exit Surveys: Data Cleaning and Analysis
+### Employee Exit Surveys: Data Cleaning
 
 **Overview:** This project involves data cleaning and analysis of employee exit surveys from two educational institutions in Australia: DETE (Department of Education, Training, and Employment) and TAFE (Technical and Further Education). The primary focus is on understanding the reasons for employee exits and how these reasons vary based on the length of service and age.
 
